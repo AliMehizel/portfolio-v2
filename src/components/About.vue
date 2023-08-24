@@ -5,7 +5,7 @@
     </div>
     <div class="div">
       <div class="about-img">
-        <img src="../assets/img/pic.jpg" alt="about-img" />
+        <img src="../assets/img/about.jpg" alt="about-img" />
       </div>
       <div class="about-desc">
         <p>

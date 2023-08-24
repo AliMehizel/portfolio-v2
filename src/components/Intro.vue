@@ -73,6 +73,7 @@ p{
   width: 250px;
   height: 250px;
   object-fit: cover;
+  object-position: bottom;
   border-radius: 50%;
 }
 
