@@ -5,7 +5,7 @@
   <About/>
   <Hobies/>
   <Contact/>
-  <Footer/>
+  <Footer />
 </template>
 
 <script>
